@@ -1,0 +1,53 @@
+.bg-grey-100 {
+  background-color: #292d33;
+}
+
+.bg-grey-200 {
+  background-color: #292a33;
+}
+
+.bg-orange {
+  background-color: #e67b13;
+}
+.text-white {
+  color: white;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.px-8 {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.relative {
+  position: relative;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.block {
+  display: block;
+}
